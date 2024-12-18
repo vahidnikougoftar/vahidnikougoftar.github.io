@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kidslab/static/css/main.5a934827.css",
+    "main.js": "/kidslab/static/js/main.541214b9.js",
+    "static/js/488.6a5081cf.chunk.js": "/kidslab/static/js/488.6a5081cf.chunk.js",
+    "static/media/image.png": "/kidslab/static/media/image.30e3cb84770eb4da0439.png",
+    "index.html": "/kidslab/index.html",
+    "main.5a934827.css.map": "/kidslab/static/css/main.5a934827.css.map",
+    "main.541214b9.js.map": "/kidslab/static/js/main.541214b9.js.map",
+    "488.6a5081cf.chunk.js.map": "/kidslab/static/js/488.6a5081cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a934827.css",
+    "static/js/main.541214b9.js"
+  ]
+}
